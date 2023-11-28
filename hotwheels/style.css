@@ -1,0 +1,44 @@
+header{
+    background-color:#0C5C99;
+    height: 150px;
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    box-shadow: 5px 5px 5px rgb(176, 177, 183);
+   
+}
+.txtheader{
+    font-size: 80px;
+    color:yellow;
+}
+.logoimg{
+    height: 120px;
+    
+}
+.main-container{
+    height:auto;
+    display:flex;
+    justify-content:center; 
+    background-color: #0C5C99;
+  
+}
+span{
+    text-align: left;
+    color: yellow;
+}
+
+.menu {
+    width: 400PX;
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    
+}
+.login{
+justify-content:space-around
+}
+
+.footer{
+    justify-content:center; 
+    display:flex
+}
