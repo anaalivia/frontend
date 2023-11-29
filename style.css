@@ -42,11 +42,39 @@ justify-content:space-around
     justify-content:center; 
     display:flex
 }
-header2{
+.logo2{
+    height:auto;
+    display:flex;
+    justify-content:center; 
+    background-color: #0C5C99;
+  
+}
+.footer2{
     background-color:#0C5C99;
     height: 150px;
     display:flex;
     align-items:center;
-    justify-content: space-between;
-    box-shadow: 5px 5px 5px rgb(176, 177, 183);
+    justify-content: right;}
+
+   .txt-footer2{
+    text-align: left;
+   
+    
+}
+   
+
+.telefone img,
+.email img,
+.txt-footer2 img {
+    height: 40px;
+    margin: 10px;
+}
+
+.icons {
+    display: flex;
+}
+
+.footer2 {
+    display: flex;
+    justify-content: space-around;
 }
